@@ -27,8 +27,10 @@ Libraries  : LangChain, FAISS, Hugging Face Transformers
 Databases  : MongoDB, MySQL  
 Tools      : Git, VS Code, Android Studio, Postman  
 Cloud/Dev  : Docker (learning), AWS (learning)
+```
 
- Featured Projects
+## Featured Projects
+
 🔍 PDF Chatbot
 An AI-powered assistant that answers questions from PDF documents using vector search (FAISS) and LLMs.
 💡 Tech: LangChain · FAISS · Node.js · Frontend in Kotlin (Jetpack Compose)
@@ -48,4 +50,4 @@ A content-based recommendation engine using TF-IDF and cosine similarity on IMDb
 
 🌐 https://my-portfolio-five-delta-82.vercel.app/
 
-<p align="center"> <i>“Turning ideas into impact through code, models, and research.”</i> </p> ```
+<p align="center"> <i>“Turning ideas into impact through code, models, and research.”</i> </p> 
