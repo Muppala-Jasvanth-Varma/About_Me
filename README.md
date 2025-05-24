@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Jasvanth -->
 
-<h1 align="center"> Hi, I'm Jasvanth</h1>
+<h1 align="center"> Hi, I'm Jasvanth Varma Muppala</h1>
 <p align="center">
    Aspiring Machine Learning Engineer & AI Researcher<br>
    Final-Year Engineering Student – AI & ML | Open to Internships
