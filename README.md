@@ -21,8 +21,8 @@
 ##  Technologies & Tools
 
 ```python
-Languages  : Python, SQL, HTML, Kotlin  
-ML & DL    : scikit-learn, TensorFlow, PyTorch, OpenCV  
+Languages  : Python, SQL, R
+ML & DL    : scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, Matplotlib  
 Libraries  : LangChain, FAISS, Hugging Face Transformers  
 Databases  : MongoDB, MySQL  
 Tools      : Git, VS Code, Android Studio, Postman  
